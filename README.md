@@ -32,17 +32,19 @@ The main objectives of this project are:
 - **Wireshark:** A network protocol analyzer used to inspect and analyze captured traffic.
 
 ### Setup Activities
+1.Set up Oracle VirtualBox as the virtualization platform using the recommended version.
+2.Installed and configured Kali Linux as the attacking machine.
+3.Configured the network subnet as 10.0.0.0/24.
+4.Created a NAT Network using the subnet 10.0.0.0/24.
+5.Enabled shared clipboard and file drag-and-drop in VirtualBox settings.
+6.Configured a shared folder to access the host machine's /downloads folder.
+7.Assigned the IP address 10.0.0.2/24 to the Kali Linux virtual machine.
+8.Verified internet connectivity and DNS resolution in Kali Linux.
 
-1. Installed and configured Oracle VirtualBox.
-2. Installed or imported Kali Linux into VirtualBox as a virtual machine.
-3. Configured the virtual machine's network settings.
-4. Created a private virtual network for the lab environment.
-5. Checked Kali Linux network connectivity.
-6. Prepared the environment for future authorized security testing and practical exercises.
 
 ### Outcome
 
-Successfully completed the initial virtual cybersecurity lab setup, establishing a foundation for hands-on security learning and network analysis. The lab environment can be extended by adding additional virtual machines for authorized testing.
+The objective of this module was to establish a functional Kali Linux virtual machine with a private NAT network, a consistent IP address, internet connectivity, and essential VirtualBox integration features. This environment serves as the foundation for the six NetworkWalks Wireshark SOC labs and future hands-on cybersecurity exercises.
 
 ## Project module-1(Extra): NetworkWalks Wireshark SOC Labs
 
