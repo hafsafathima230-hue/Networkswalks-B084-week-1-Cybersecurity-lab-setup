@@ -1,11 +1,11 @@
 # Networkswalks-B084-week-1-Cybersecurity-lab-setup
-#Cybersecurity lab setup
+**Cybersecurity lab setup**
 
 This repository documents my hands-on learning experience through the NetworkWalks SOC Labs, using Wireshark lab exercises to understand network traffic analysis, attacker behavior, and common cybersecurity threats.
 
 During these labs, I practiced analyzing network captures and identifying suspicious activities to strengthen my foundational skills in Security Operations Center (SOC) analysis.
 
-#Labs Completed:
+**Labs Completed:**
 
 1. Identify the Attacker's IP
 - Analyzed network traffic to identify the attacker's IP address.
@@ -31,10 +31,10 @@ During these labs, I practiced analyzing network captures and identifying suspic
 - Investigated a provided network capture related to a call scam scenario.
 - Practiced examining traffic to identify suspicious communication patterns.
 
-#Tools Used
+**Tools Used**
 - NetworkWalks Wireshark Labs – Guided hands-on cybersecurity exercises
 
-#Key Skills Learned:
+**Key Skills Learned:**
 - Network traffic analysis
 - Packet capture inspection
 - IP address identification
@@ -45,15 +45,15 @@ During these labs, I practiced analyzing network captures and identifying suspic
 - Identifying suspicious network communication
 - Foundational SOC investigation skills
 
-#Learning Outcome:
+**Learning Outcome:**
 
 Completing these six labs helped me gain practical exposure to network traffic analysis and understand how Wireshark can support security investigations. These exercises strengthened my foundational knowledge of network security and SOC operations.
 
-#Acknowledgement:
+**Acknowledgement:**
 
 I would like to thank NetworkWalks for providing these Wireshark-based lab exercises and learning resources. They helped me develop my practical cybersecurity knowledge through hands-on investigation.
 
-#Disclaimer:
+**Disclaimer:**
 
 These labs were completed for educational and cybersecurity training purposes using provided lab materials and packet captures. Any sensitive information observed during the exercises should be handled responsibly.
 
